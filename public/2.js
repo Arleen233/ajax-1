@@ -1,0 +1,1 @@
+console.log('我是getJS请求的内容2.js')
